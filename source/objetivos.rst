@@ -1,60 +1,63 @@
-"Nombre del proyecto"
-====================
-
-Sustituya con el nombre del proyecto.
-
+"App"
+=====
 
 Breve historia del proyecto
 ---------------------------
 
-Redacte cómo es que se llega a conocer del proyecto y quienes son
-las personas involucradas en el mismo, además de una breve descripción de qué
-actividades serán las que se automatizarán con el sistema.
+El proyecto se dio a conocer por el gestor del proyecto ya que la empresa se encuentra
+desactualizada en el ámbito tecnológico, las personas que se encuentran involucradas
+en el proyecto son:
+  - Gestor del proyecto
+      Nombre: Ing. Dhaby Eugenio Xiloj Curruchiche
+  - Cliente
+      Nombre: Ernesto
+  - Desarrolladores
+con este sistema se espera automatizar las actividades como:
+  - creación de eventos
+  - búsqueda de eventos activos
+  - contactar con los artistas
 
-Se debe de enfocar siempre los beneficios que traerá la aplicación a la empresa
-al momento de estar ya en funcionamiento.
+el proyecto aportara una forma más rápida de encontrar artistas o eventos, lo que
+normalmente se dificulta ya que la mayoría de personas no saben dónde se encuentra
+la empresa o cual es el número telefónico de esta para poder pedir información.
 
-Debe de tomar en cuenta que el proyecto se refiere al trabajo de análisis
-del sistema, ya que la descripción del sistema se hará mas adelante.
+el proyecto contara con una sección informativa la cual tendrá como fin que las
+personas que la utilicen puedan conocer más sobre la cultura de Quetzaltenango.
+
+ya que la aplicación contara con una parte de estadísticas, estas ayudaran en la
+toma de decisiones.
 
 
-Empresa a la que se dirige el sistema
--------------------------------------
+Casa de la Cultura
+------------------
 
-Sustituya el título con el nombre de la empresa a la que se dirige el proyecto.
-
-Coloque una breve descripción de lo que haya comprendido sobre lo que realice
-la empresa.
+la casa de la cultura se encuentra situada en el municipio de Quetzaltenango, es una
+rama de la municipalidad la cual se encarga de la organización y coordinación de
+actividades relacionadas con la cultura, estas actividades pueden ser creadas por
+ellos mismos o empresas fuera de ella.
 
 
 Misión del proyecto
 -------------------
 
-Describa de la mejor manera la misión del proyecto o aplicación a realizar.
+Obtener información inalterada y confiable sobre los eventos realizados y a partir
+de esta poder generar estadísticas las cuales faciliten la toma de decisiones
+de los altos mandos.
 
 
 Objetivos del proyecto
 ----------------------
 
-Enliste los objetivos del proyecto, estos deben de ir de acuerdo a la misión
-del proyecto y cumplir con los requerimientos de SMART
+- La aplicación sea utiliza por 1000 personas en los primeros 2 meses:
+  este objetivo es medible ya que se pueden contar a las personas que utilizan
+  el sistema con un tiempo limite por lo cual es realista y alcanzable.
 
-* Specific
+- Saber que eventos son los que mas atraen a las personas:
+  se podrá mediante la puntuación que se asignan las personas, será alcanzable
+  ya que después de se lance el sistema los usuarios podrán votar por las actividades
+  que más les guste, el límite de tiempo podrá estar delimitado a un año.
 
-  * Específicos
-
-* Measurable
-
-  * Medibles
-
-* Attainable
-
-  * Alcanzable
-
-* Realistic
-
-  * Realistas
-
-* Timely
-
-  * Delimitado en un tiempo
+- Agilizar el proceso de creación de eventos:
+  se delimita exclusivamente a los eventos, se puede medir mediante la
+  comparación de tiempos, antes y después del sistema, alcanzable ya que cuando
+  se implemente se podrá empezar la comparación.
