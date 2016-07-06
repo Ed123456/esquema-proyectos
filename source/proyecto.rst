@@ -31,28 +31,43 @@ otros trabajadores siempre y cuando tengan la autorización de su superior.
 Modulos
 ^^^^^^^
 
-*- Artistas*
-  En este modulo contara con las funciones tales como registro de artistas, en el cual
-  al registrarse se necesitara la confirmación del administrador para poder ser aceptado.
+  - Artistas
+  ^^^^^^^^^^
+    En este modulo contara con las funciones tales como registro de artistas, en el cual
+    al registrarse se necesitara la confirmación del administrador para poder ser aceptado.
 
-  Si no ingresa al modulo para registrarse podrá buscar a un artista especifico, al encontrarlo
-  el sistema le mostrara la información básica de este y la forma de contactarlo.
+    Si no ingresa al modulo para registrarse podrá buscar a un artista especifico, al encontrarlo
+    el sistema le mostrara la información básica de este y la forma de contactarlo.
 
-*- Eventos*
-  Con este módulo se podrán crear eventos pero también será necesaria la confirmación de
-  un administrador, además se podrán buscar los eventos ya planificados, la forma de
-  búsqueda puede ser por categorías, ejemplo: música, dibujo entre otros.
+    diagrama de caso de uso: :ref:`referencia-a`.
 
-  Los eventos podrán ser puntuados por los visitantes, además de esto se podrá visualizar y
-  agregar comentarios.
+  - Eventos
+  ^^^^^^^^^
+    Con este módulo se podrán crear eventos pero también será necesaria la confirmación de
+    un administrador, además se podrán buscar los eventos ya planificados, la forma de
+    búsqueda puede ser por categorías, ejemplo: música, dibujo entre otros.
 
-*- Espacio informativo*
-  El administrador del sistema podrá agregar información cultural relevante en una fecha, esta
-  se encontrara visible tanto para visitantes como para artistass
+    Los eventos podrán ser puntuados por los visitantes, además de esto se podrá visualizar y
+    agregar comentarios.
 
-*- Administración*
-  El encargado podrá confirmar la creación de artistas o eventos.
+    diagrama de caso de uso :ref:`referencia-e`.
 
-  Se podrán generar estadísticas sobre los artistas o eventos, esta información esta dirigirá
-  a los altos mandos pero los colaboradores de menor jerarquía podrán tener
-  acceso a estas mediante un permiso de sus superior.
+  - Espacio Informativo
+  ^^^^^^^^^^^^^^^^^^^^^
+    El administrador del sistema podrá agregar información cultural relevante en una fecha, esta
+    se encontrara visible tanto para visitantes como para artistas.
+
+    diagrama de caso de uso: :ref:`referencia-i`.
+
+  - Administración
+  ^^^^^^^^^^^^^^^^
+    El encargado podrá confirmar la creación de artistas o eventos.
+
+    Se podrán gestionar a los artistas, eventos y los espacios informativos, esto quiere
+    decir que podrá eliminar artistas, eventos o espacios informativos.
+
+    Se podrán generar estadísticas sobre los artistas o eventos, esta información esta dirigirá
+    a los altos mandos pero los colaboradores de menor jerarquía podrán tener
+    acceso a estas mediante un permiso de sus superior.
+
+    diagrama de caso de uso: :ref:`referencia-ad`.

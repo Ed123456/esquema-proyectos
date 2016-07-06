@@ -46,7 +46,7 @@ source_suffix = '.rst'
 master_doc = 'index'
 
 # General information about the project.
-project = u'Documentación de proyecto "Nombre"'
+project = u'Documentación de proyecto Aplicacion Casa de la Cultura'
 copyright = u'2016, Edwin Joseleonardo Molina Martinez'
 
 # The version info for the project you're documenting, acts as replacement for

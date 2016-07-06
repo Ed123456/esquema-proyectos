@@ -1,16 +1,19 @@
-"App"
-=====
+Aplicación Casa de la Cultura
+=============================
 
 Breve historia del proyecto
 ---------------------------
 
-El proyecto se dio a conocer por el gestor del proyecto ya que la empresa se encuentra
-desactualizada en el ámbito tecnológico, las personas que se encuentran involucradas
-en el proyecto son:
+El proyecto se dio a conocer por el gestor del proyecto, a la empresa se le dificulta
+tener un control de sus eventos y saber cuales son los eventos que mas han gustado a las
+personas, otro de los problemas es que la empresa se encuentra desactualizada en el ámbito
+tecnológico.
+
+Las personas que se encuentran involucradas en el proyecto son:
   - Gestor del proyecto
       Nombre: Ing. Dhaby Eugenio Xiloj Curruchiche
   - Cliente
-      Nombre: Ernesto
+      Nombre: Ernesto Pacheco
   - Desarrolladores
 con este sistema se espera automatizar las actividades como:
   - creación de eventos
@@ -33,14 +36,14 @@ Casa de la Cultura
 
 la casa de la cultura se encuentra situada en el municipio de Quetzaltenango, es una
 rama de la municipalidad la cual se encarga de la organización y coordinación de
-actividades relacionadas con la cultura, estas actividades pueden ser creadas por
-ellos mismos o empresas fuera de ella.
+actividades relacionadas con la cultura a demás de promoverla, estas actividades pueden
+ser creadas por ellos mismos o empresas fuera de ella.
 
 
 Misión del proyecto
 -------------------
 
-Obtener información inalterada y confiable sobre los eventos realizados y a partir
+Obtener información confiable sobre los eventos realizados y a partir
 de esta poder generar estadísticas las cuales faciliten la toma de decisiones
 de los altos mandos.
 
@@ -48,16 +51,6 @@ de los altos mandos.
 Objetivos del proyecto
 ----------------------
 
-- La aplicación sea utiliza por 1000 personas en los primeros 2 meses:
-  este objetivo es medible ya que se pueden contar a las personas que utilizan
-  el sistema con un tiempo limite por lo cual es realista y alcanzable.
-
-- Saber que eventos son los que mas atraen a las personas:
-  se podrá mediante la puntuación que se asignan las personas, será alcanzable
-  ya que después de se lance el sistema los usuarios podrán votar por las actividades
-  que más les guste, el límite de tiempo podrá estar delimitado a un año.
-
-- Agilizar el proceso de creación de eventos:
-  se delimita exclusivamente a los eventos, se puede medir mediante la
-  comparación de tiempos, antes y después del sistema, alcanzable ya que cuando
-  se implemente se podrá empezar la comparación.
+- que el sistema pueda organizar los eventos futuros mediante aspectos específicos
+  como: música, pintura, entre otros. Los eventos están vigentes hasta antes que
+  estos se realicen.

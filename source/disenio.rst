@@ -3,10 +3,41 @@ Diseño de la aplicacíon
 
 Casos de Uso
 ------------
+Caso General
+^^^^^^^^^^^^
+  .. figure:: diagramas/DiagramaGeneral.png
+   :align:  center
 
-Se colocan los distintos casos de uso, tanto para la aplicación general como para
-cada módulo.
 
+.. _referencia-a:
+
+Modulo Artistas
+^^^^^^^^^^^^^^^
+.. figure:: diagramas/DiagramaArtista.png
+ :align:  center
+
+
+.. _referencia-e:
+
+Modulo Eventos
+^^^^^^^^^^^^^^^
+.. figure:: diagramas/DiagramaEvento.png
+ :align:  center
+
+.. _referencia-i:
+
+Modulo Espacio Informativo
+^^^^^^^^^^^^^^^^^^^^^^^^^^
+.. figure:: diagramas/DiagramaEspacio.png
+ :align:  center
+
+
+.. _referencia-ad:
+
+Modulo Administracion
+^^^^^^^^^^^^^^^^^^^^^
+.. figure:: diagramas/DiagramaAdministracion.png
+ :align:  center
 Clases
 ------
 
