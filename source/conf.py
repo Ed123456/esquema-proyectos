@@ -30,7 +30,7 @@ import os
 # ones.
 extensions = [
     'sphinx.ext.todo',
-    'sphinx.ext.mathjax',
+    'rst2pdf.pdfbuilder',
 ]
 
 # Add any paths that contain templates here, relative to this directory.
@@ -209,6 +209,7 @@ latex_documents = [
    u'Alumno', 'manual'),
 ]
 
+pdf_documents = [('index',u'Documentacion',u'Documentación de proyecto',u'Edwin Joseleonardo Molina Martinez'),]
 # The name of an image file (relative to this directory) to place at the top of
 # the title page.
 #latex_logo = None
