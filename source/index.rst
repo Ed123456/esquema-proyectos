@@ -6,8 +6,6 @@
 Bienvenido a la documentación de Aplicación Casa de la Cultura
 ==============================================================
 
-Contenido:
-
 .. toctree::
    :maxdepth: 2
 
