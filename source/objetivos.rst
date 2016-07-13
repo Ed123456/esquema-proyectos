@@ -50,10 +50,9 @@ el arte y la cultura.
 Misión del proyecto
 -------------------
 
-Obtener información confiable sobre los eventos realizados y a partir
-de esta poder generar estadísticas las cuales faciliten la toma de decisiones
-de los altos mandos sobre que tipo de eventos son bien recibidos por ejemplo: conciertos,
-talleres de pintura, poesia, entre otros.
+Generar estadísticas de eventos las cuales faciliten la toma de decisiones de los altos mandos,
+las estadísticas se basaran en cuales eventos son mejores recibidos y se podrán clasificar
+por la actividad que se realizó, las cuales pueden ser: conciertos, talleres de pintura, poesía, entre otros.
 
 
 Objetivos del proyecto

@@ -64,7 +64,8 @@ Diagrama de caso de uso: :ref:`referencia-i`.
 
 Administración
 ^^^^^^^^^^^^^^
-El encargado podrá confirmar la creación de artistas o eventos.
+El encargado podrá confirmar la creación de artistas o eventos, es necesario contar con una
+contraseña para poder ingresar al sistema.
 
 Se podrán gestionar a los artistas, eventos y los espacios informativos, esto quiere
 decir que podrá eliminar artistas, eventos o espacios informativos.

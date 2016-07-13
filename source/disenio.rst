@@ -71,9 +71,11 @@ votación o comentarios, estas se enfocan en los eventos.
 Clases
 ------
 
-Diagramas de clases y de sus distintas actividades, si fuese necesario.
-
 Diagrama de BD
 --------------
 
-Diagrama de la Base de Datos que requerirá el software.
+.. image:: diagramas/DiagramaER.png
+ :height: 15cm
+ :width: 15cm
+ :scale: 100%
+ :align:  center
